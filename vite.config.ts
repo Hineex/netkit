@@ -20,7 +20,7 @@ export default defineConfig({
     copyPublicDir: false,
     cssCodeSplit: true,
     lib: {
-      name: 'is-components-new',
+      name: 'netkit',
       entry: components,
       formats: ['es'],
     },

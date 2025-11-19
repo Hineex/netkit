@@ -1,7 +1,7 @@
 {
-  "name": "is-components-new",
-  "description": "Is components",
-  "version": "0.0.4",
+  "name": "netkit",
+  "description": "Netkit",
+  "version": "0.0.1",
   "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
