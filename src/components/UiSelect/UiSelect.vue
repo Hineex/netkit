@@ -53,6 +53,7 @@ const onInput = (e: Event) => {
   align-items: center;
   width: 100%;
   max-width: 320px;
+  
 }
 
 .input {
